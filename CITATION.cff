@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this article, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Degoogled_Android_Phone_VM_Research"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM"
+cff-version: 1.2.0
+message: "If you use this article, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "DeGoogle article on research information for creating a functional Android device without Google components, inside a virtual machine."
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-01-04
+url: "https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 1
+  start: 1 # First page number
+  end: 978 # Last page number
+  title: "DeGoogle article (by Sean Patrick Myrick) on research regarding getting full Android functionality on a non-Google device, and in a virtual machine. I am using this research document for <reason>"
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Tuesday, January 4th at 7:09 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
