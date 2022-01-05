@@ -1,0 +1,57 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# Makefile
+# Do not make this detectable, it will upset the balance. - August 19th 2021
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.make linguist-detectable=false
+*.make linguist-documentation=false
+*.makefile linguist-detectable=false
+*.makefile linguist-documentation=false
+# YAML
+# Do not make this detectable, it will upset the balance - August 26th 2021
+*.yml linguist-detectable=false
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=false
+*.yaml linguist-documentation=false
+# HTML
+*.htm linguist-detectable=true
+*.htm linguist-documentation=false
+*.html linguist-detectable=true
+*.html linguist-documentation=false
+*.xhtm linguist-detectable=true
+*.xhtm linguist-documentation=false
+*.xhtml linguist-detectable=true
+*.xhtml linguist-documentation=false
+*.mhtm linguist-detectable=true
+*.mhtm linguist-documentation=false
+*.mhtml linguist-detectable=true
+*.mhtml linguist-documentation=false
+# SVG
+# Do not make this detectable, it will upset the balance - August 26th 2021
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+# Markdown
+# Still deciding if I want to switch the main language from HTML5 to Markdown - August 19th 2021
+# Decided: the project language will be markdown
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+*.mkd linguist-detectable=true
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=true
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=rtrue
+*.markdown linguist-documentation=false
+# End of linguist script
+# File info
+# File type: gitattributes file (.gitattributes)
+# File version: 3 (2022, Tuesday, January 4th at 6:51 pm)
+# Line count (including blank lines and compiler line): 58
+# End of script
