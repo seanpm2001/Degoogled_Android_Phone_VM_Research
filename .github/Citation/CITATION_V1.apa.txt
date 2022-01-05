@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). DeGoogle article (by Sean Patrick Myrick) on research regarding getting full Android functionality on a non-Google device, and in a virtual machine. I am using this research document for <reason> [Data set]. https://doi.org/10.0000/00000
