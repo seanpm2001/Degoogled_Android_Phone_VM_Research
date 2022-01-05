@@ -9,6 +9,10 @@
 # Do not make this detectable, it will upset the balance. - August 19th 2021
 *.mk linguist-detectable=false
 *.mk linguist-documentation=false
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.make linguist-detectable=false
+*.make linguist-documentation=false
 *.makefile linguist-detectable=false
 *.makefile linguist-documentation=false
 # YAML
@@ -35,17 +39,19 @@
 *.svg linguist-detectable=false
 *.svg linguist-documentation=false
 # Markdown
-# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 # Still deciding if I want to switch the main language from HTML5 to Markdown - August 19th 2021
-*.md linguist-detectable=false
+# Decided: the project language will be markdown
+*.md linguist-detectable=true
 *.md linguist-documentation=false
-*.mkd linguist-detectable=false
+*.mkd linguist-detectable=true
 *.mkd linguist-documentation=false
-*.markdown linguist-detectable=false
+*.mdown linguist-detectable=true
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=rtrue
 *.markdown linguist-documentation=false
 # End of linguist script
 # File info
-# File type: .gitattributes file (.gitattributes)
-# File version: 2 (Thursday, August 26th 2021 at 7:44 pm)
-# Line count (including blank lines and compiler line): 52
+# File type: gitattributes file (.gitattributes)
+# File version: 3 (2022, Tuesday, January 4th at 6:51 pm)
+# Line count (including blank lines and compiler line): 58
 # End of script
