@@ -44,7 +44,7 @@ These requirements are not yet verified
 | Touchscreen | Highly recommended, not required for some functions |
 | Screen resolution | Unknown, at least 1280x720, recommended: 1920x1280 or higher, possible maximum 4320x2160 |
 | Network | May be required for installation |
-| Bitsize | 64 bit |
+| Bitsize | 64 bit (for x64 and x32) 32 bit (for x32, and not x64) |
 
 #### Loading APKs
 
@@ -98,10 +98,14 @@ _Hover over these links to see their definition, click them to read more (Wikipe
 
 | Provider | Version |
 |---|---|
-| Android x86 9.0rc1 (404 not found) | ![9.0-rc1](https://osdn.net/projects/android-x86/) |
-| Android x86 9.0rc2 (404 not found) | ![9.0-rc2](https://osdn.net/projects/android-x86/) |
-| Android x86 9.0r1 (404 not found) | ![9.0-r1](https://osdn.net/projects/android-x86/) |
-| Android x86 9.0r2 (via osdn) | ![9.0-r2](https://osdn.net/projects/android-x86/releases/71931) |
+| Android x86 9.0rc1 (32 and 64 bit) (via archive.org) | [9.0-rc1](https://archive.org/details/sjarb_android_9.0RC1) |
+| Android x86 9.0rc1 (direct 32 bit download) (via archive.org) (ISO) | [9.0-rc1(x32)](https://archive.org/download/sjarb_android_9.0RC1/android-x86-9.0-rc1.iso) |
+| ISO contents of Android x86 9.0rc1 (32 bit) (via archive.org) | [9.0-rc1(x32)](https://archive.org/download/sjarb_android_9.0RC1/android-x86-9.0-rc1.iso) |
+| Android x86 9.0rc1 (direct 64 bit download) (via archive.org) (ISO) |[9.0-rc1(x64)](https://archive.org/download/sjarb_android_9.0RC1/android-x86_64-9.0-rc1.iso) |
+| ISO contents of Android x86 9.0rc1 (64 bit) (via archive.org) | [9.0-rc1(x64)](https://archive.org/download/sjarb_android_9.0RC1/android-x86_64-9.0-rc1.iso) |
+| Android x86 9.0rc2 (404 not found) | [9.0-rc2](https://osdn.net/projects/android-x86/) |
+| Android x86 9.0r1 (404 not found) | [9.0-r1](https://osdn.net/projects/android-x86/) |
+| Android x86 9.0r2 (via osdn) | [9.0-r2](https://osdn.net/projects/android-x86/releases/71931) |
 <!-- | Android x86 (via archive.org) | ![Many]() | !-->
 
 **Release notes**
@@ -139,9 +143,9 @@ I was able to successfully get an Android virtual machine running through this v
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Wednesday, August 24th at 5:58 pm PST)`
+**File version:** `3 (2022, Thursday, August 25th at 7:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `217`
+**Line count (including blank lines and compiler line):** `236`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -198,7 +202,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 Side comment: The Internet Archive was down at the time, so I couldn't retrieve some mirror links.
 
-- [x] Started the file
 - [x] Updated the `title` section
 - [x] Updated the `Other` section
 - - [x] Updated the `Legend` subsection
@@ -208,6 +211,22 @@ Side comment: The Internet Archive was down at the time, so I couldn't retrieve 
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Thursday, August 25th at 7:13 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this version separately:** [`Click/tap here`](/DeGoogled_Android/ByVersion/9.0_Pie/!OldVersions/README/English/USA/1/1-100/README_V3.md)
+
+- [x] Updated the `title` section
+- [x] Updated the `System requirements` section
+- [x] Updated the `Other` section
+- - [x] Added new Android 9.0 rc1 links via the Internet Archive
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 3
 
 </details>
 
