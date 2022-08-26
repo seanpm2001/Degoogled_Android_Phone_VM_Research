@@ -15,11 +15,9 @@
 |---|
 | Android Gingerbread logo |
 
-| ![Screenshot unavailable](/DeGoogled_Android/ByVersion/2.3_Gingerbread/Graphics/NOMEDIA) |
+| ![Screenshot failed to load](/DeGoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Poster/Android2.3Install_2022August25th_Poster.png) |
 |---|
 | Screenshot of Android 2.3 running virtualized |
-
-I have an image somewhere, but I will try to virtualize it again sometime soon.
 
 This version is a lot easier to DeGoogle in August of 2022, as it is extremely outdated, and not supported at all by Google, so you don't really need to figure out how to trick it into being an Android device, as there is no way to access the Android Market.
 
@@ -52,7 +50,24 @@ No information available.
 
 #### Oracle VM VirtualBox
 
-No information available.
+VirtualBox requires the following configurations:
+
+| Configuration name | Condition |
+|---|---|
+| Paravirtualization interface (System/Acceleration) | `KVM` |
+| Video Memory (Display/Screen) | `64 megabytes (minimum)` |
+| Graphics Controller (Display/Screen) | `VBoxSVGA` |
+| Other | `Unknown/unlisted` |
+
+The graphics controller requirement will result in the warning `invalid settings detected` please ignore this and proceed. It is a false warning.
+
+Installation video (2022, August 25th)
+
+<video width="1920" height="1080" controls
+  poster="/DeGoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Poster/Android2.3Install_2022August25th_Poster.png" controls>
+  <source src="/DeGoogled_Android/ByVersion/2.3_Gingerbread/Video/Installation/Android2.3_Installation_VirtualBox_2022August25th_Full.webm" type="video/webm">
+  <p><b>If you are seeing this text, the video failed to load</b></p>
+</video>
 
 #### QEMU
 
@@ -84,9 +99,9 @@ Further DeGoogle instructions are unavailable.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Tuesday, August 23rd at 8:31 pm PST)`
+**File version:** `2 (2022, Thursday, August 25th at 7:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `134`
+**Line count (including blank lines and compiler line):** `165`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -125,6 +140,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Thursday, August 25th at 7:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `title` section
+- [x] Updated the `System requirements` section
+- [x] Updated the `Oracle VM VirtualBox` section
+- - [x] Added new install instructions, and a reference installation video
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
