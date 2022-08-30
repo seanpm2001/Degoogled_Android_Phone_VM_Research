@@ -7,15 +7,15 @@
 
 ### Android 2.3 (Gingerbread)
 
-| ![Android logo](/DeGoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Logo/Android_logo_(2007-2014).svg)
+| ![Android logo](/Degoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Logo/Android_logo_(2007-2014).svg)
 |---|
 | Android logo from 2007 to 2014 |
 
-| ![Android Gingerbread logo](/DeGoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Logo/Android_Gingerbread_Logo.png) |
+| ![Android Gingerbread logo](/Degoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Logo/Android_Gingerbread_Logo.png) |
 |---|
 | Android Gingerbread logo |
 
-| ![Screenshot failed to load](/DeGoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Poster/Android2.3Install_2022August25th_Poster.png) |
+| ![Screenshot failed to load](/Degoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Poster/Android2.3Install_2022August25th_Poster.png) |
 |---|
 | Screenshot of Android 2.3 running virtualized |
 
@@ -64,8 +64,8 @@ The graphics controller requirement will result in the warning `invalid settings
 Installation video (2022, August 25th)
 
 <video width="1920" height="1080" controls
-  poster="/DeGoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Poster/Android2.3Install_2022August25th_Poster.png" controls>
-  <source src="/DeGoogled_Android/ByVersion/2.3_Gingerbread/Video/Installation/Android2.3_Installation_VirtualBox_2022August25th_Full.webm" type="video/webm">
+  poster="/Degoogled_Android/ByVersion/2.3_Gingerbread/Graphics/Poster/Android2.3Install_2022August25th_Poster.png" controls>
+  <source src="/Degoogled_Android/ByVersion/2.3_Gingerbread/Video/Installation/Android2.3_Installation_VirtualBox_2022August25th_Full.webm" type="video/webm">
   <p><b>If you are seeing this text, the video failed to load</b></p>
 </video>
 
@@ -99,9 +99,9 @@ Further DeGoogle instructions are unavailable.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Thursday, August 25th at 7:30 pm PST)`
+**File version:** `3 (2022, Monday, August 29th at 10:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `165`
+**Line count (including blank lines and compiler line):** `180`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -156,6 +156,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Monday, August 29th at 10:56 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `title` section
+- [x] Fixed 3 broken image links
+- [ ] Unsuccessfully attemped to fix video not loading
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 3
 
 </details>
 
