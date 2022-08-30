@@ -7,13 +7,17 @@
 
 ### Android 2.0 (Eclair)
 
-| ![Android logo](/DeGoogled_Android/ByVersion/2.0_Eclair/Graphics/Logo/Android_logo_(2007-2014).svg)
+| ![Android logo](/Degoogled_Android/ByVersion/2.0_Eclair/Graphics/Logo/Android_logo_(2007-2014).svg)
 |---|
 | Android logo from 2007 to 2014 |
 
-| ![Screenshot unavailable](/DeGoogled_Android/ByVersion/2.0_Eclair/Graphics/NOMEDIA) |
+| ![Screenshot unavailable (not yet attempted)](/Degoogled_Android/ByVersion/2.0_Eclair/Graphics/NOMEDIA) |
 |---|
 | Screenshot of Android 2.0 running virtualized |
+
+| ![Nexus_one_home_screen_21.png](/Degoogled_Android/ByVersion/2.0_Eclair/Graphics/Nexus_one_home_screen_21.png) |
+|---|
+| Wikimedia screenshot of Android 2.0 Eclair running on a physical device |
 
 This version is a lot easier to DeGoogle in August of 2022, as it is extremely outdated, and not supported at all by Google, so you don't really need to figure out how to trick it into being an Android device, as there is no way to access the Android Market.
 
@@ -78,9 +82,9 @@ Further DeGoogle instructions are unavailable.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Tuesday, August 23rd at 8:10 pm PST)`
+**File version:** `2 (2022, Monday, August 29th at 11:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `128`
+**Line count (including blank lines and compiler line):** `148`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -119,6 +123,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Monday, August 29th at 11:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `title` section
+- - [x] Fixed an image link
+- - [x] Gave context on the virtualized screernshot not being available yet
+- - [x] Added a reference screenshot via Wikimedia of what Android 2.0 looks like
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
