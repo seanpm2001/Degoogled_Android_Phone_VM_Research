@@ -7,15 +7,15 @@
 
 ### Android 9.0 (Pie)
 
-| ![Android logo](/DeGoogled_Android/ByVersion/9.0_Pie/Graphics/Logo/Android_Logo_(2014).svg)
+| ![Android logo](/Degoogled_Android/ByVersion/9.0_Pie/Graphics/Logo/Android_Logo_(2014).svg)
 |---|
 | Android logo from 2014 to 2019 |
 
-| ![Android Pie logo](/DeGoogled_Android/ByVersion/9.0_Pie/Graphics/Logo/Android_P_logo.svg) |
+| ![Android Pie logo](/Degoogled_Android/ByVersion/9.0_Pie/Graphics/Logo/Android_P_logo.svg) |
 |---|
 | Android Pie logo |
 
-| ![Screenshot unavailable](/DeGoogled_Android/ByVersion/9.0_Pie/Graphics/NOMEDIA) |
+| ![Screenshot unavailable](/Degoogled_Android/ByVersion/9.0_Pie/Graphics/NOMEDIA) |
 |---|
 | Screenshot of Android 9.0 running virtualized |
 
@@ -121,7 +121,7 @@ _Hover over these links to see their definition, click them to read more (Wikipe
 
 **#1 resource**
 
-[![Android 9.0 VirtualBox tutorial](/DeGoogled_Android/ByVersion/9.0_Pie/Graphics/Videos/Thumbnails/Android9VirtualBox6.1_Video1_Thumbnail1.jpg)](https://www.youtube.com/watch?v=137jBpJniNs "Android 9.0 in VirtualBox 6.1 by LinuxLeech - YouTube")
+[![Android 9.0 VirtualBox tutorial](/Degoogled_Android/ByVersion/9.0_Pie/Graphics/Videos/Thumbnails/Android9VirtualBox6.1_Video1_Thumbnail1.jpg)](https://www.youtube.com/watch?v=137jBpJniNs "Android 9.0 in VirtualBox 6.1 by LinuxLeech - YouTube")
 
 **WARNING:** `YouTube link` No other viable alternatives found at the moment. Proceed with caution.
 
@@ -143,9 +143,9 @@ I was able to successfully get an Android virtual machine running through this v
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Thursday, August 25th at 7:13 pm PST)`
+**File version:** `4 (2022, Monday, August 29th at 10:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `236`
+**Line count (including blank lines and compiler line):** `250`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -169,7 +169,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-**View this version separately:** [`Click/tap here`](/DeGoogled_Android/ByVersion/9.0_Pie/!OldVersions/README/English/USA/1/1-100/README_V1.md)
+**View this version separately:** [`Click/tap here`](/Degoogled_Android/ByVersion/9.0_Pie/!OldVersions/README/English/USA/1/1-100/README_V1.md)
 
 > Changes:
 
@@ -196,7 +196,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-**View this version separately:** [`Click/tap here`](/DeGoogled_Android/ByVersion/9.0_Pie/!OldVersions/README/English/USA/1/1-100/README_V2.md)
+**View this version separately:** [`Click/tap here`](/Degoogled_Android/ByVersion/9.0_Pie/!OldVersions/README/English/USA/1/1-100/README_V2.md)
 
 > Changes:
 
@@ -218,7 +218,7 @@ Side comment: The Internet Archive was down at the time, so I couldn't retrieve 
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-**View this version separately:** [`Click/tap here`](/DeGoogled_Android/ByVersion/9.0_Pie/!OldVersions/README/English/USA/1/1-100/README_V3.md)
+**View this version separately:** [`Click/tap here`](/Degoogled_Android/ByVersion/9.0_Pie/!OldVersions/README/English/USA/1/1-100/README_V3.md)
 
 - [x] Updated the `title` section
 - [x] Updated the `System requirements` section
@@ -227,6 +227,20 @@ Side comment: The Internet Archive was down at the time, so I couldn't retrieve 
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Monday, August 29th at 10:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this version separately:** [`Click/tap here`](/Degoogled_Android/ByVersion/9.0_Pie/!OldVersions/README/English/USA/1/1-100/README_V4.md)
+
+- [x] Updated the `title` section
+- [x] Fixed several broken image links
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 4
 
 </details>
 
