@@ -25,6 +25,7 @@ A daily blog for this project was started on 2022, August 24th. It is meant to k
 - [`01 (day 9)`](/Blog/2022/09_September/01/)
 - [`02 (day 10)`](/Blog/2022/09_September/02/)
 - [`03 (day 11)`](/Blog/2022/09_September/03/)
+- [`04 (day 12)`](/Blog/2022/09_September/04/)
 
 ***
 
@@ -32,9 +33,9 @@ A daily blog for this project was started on 2022, August 24th. It is meant to k
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Saturday, September 3rd at 7:56 pm PST)`
+**File version:** `4 (2022, Sunday, September 4th at 9:01 pm PST)`
 
-**Line count (including blank lines and compiler line):** `91`
+**Line count (including blank lines and compiler line):** `105`
 
 ***
 
@@ -82,6 +83,19 @@ A daily blog for this project was started on 2022, August 24th. It is meant to k
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p><b>Version 4 (2022, Sunday, September 4th at 9:01 pm PST)</b></p></summary>
+
+> Changes:
+
+- [x] Updated the `2022` section
+- - [x] Updated the `2022 September` subsection, adding the September 4th entry link to the list
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
